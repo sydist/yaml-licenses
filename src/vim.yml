@@ -15,6 +15,7 @@ limitations: []
 
 description: There are no restrictions on using or distributing an unmodified copy of the software. Parts of the software may also be distributed, but the license text must always be included. For modified versions a few restrictions apply. The license is GPL compatible, you may compile the software with GPL libraries and distribute it.
 text: |
+  |
   VIM LICENSE
 
   I)  There are no restrictions on distributing unmodified copies of [project]
@@ -95,5 +96,3 @@ text: |
       [project] sources, parts of it or from a modified version.  You may use
       this license for previous [project] releases instead of the license that
       they came with, at your option.
-
-

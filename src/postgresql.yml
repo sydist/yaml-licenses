@@ -14,6 +14,7 @@ limitations:
 
 description: A very short, BSD-style license, used specifically for PostgreSQL.
 text: |
+  |
   PostgreSQL License
 
   Copyright (c) [year], [fullname]

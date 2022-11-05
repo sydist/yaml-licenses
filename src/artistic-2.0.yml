@@ -17,6 +17,7 @@ limitations:
 
 description: Heavily favored by the Perl community, the Artistic license requires that modified versions of the software do not prevent users from running the standard version.
 text: |
+  |
             The Artistic License 2.0
 
         Copyright (c) 2000-2006, The Perl Foundation.
